@@ -1,1 +1,1 @@
-This repo is problem solving by python
+This repo is  problem-solving repo by python
